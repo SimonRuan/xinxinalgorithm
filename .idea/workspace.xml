@@ -1,0 +1,3306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mybatisProj01:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/controller/EmployeeController.java" line="23" />
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/resources/templates/emps.html" line="9" />
+    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Hashtable.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4560afd-9aff-439d-b51e-8a7c1626b36f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatisProj01_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatisProj01_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jre8_1_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_test_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_test_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bootstrap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/LengthOfLongestSubstring_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/ServiceBreakDown/CpuTooHigh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/ServiceStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/AddTwoNumbers_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BinSearch_704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsIsValid_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BuyAndSellStocksII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CanJump_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinChange_322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CombinationSumII_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CombinationSum_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CountBits_338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/DeleteDuplicateNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/DeleteDuplicateNodeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/GroupAnagrams_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/InorderTree_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/InorderTree_94_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/IntToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/IsValidBST_98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LadderLength_127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LetterCombinations_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LevelOrder_102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestCommonSubsequence_1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestPalindrome_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MaxProduct_152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeKIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeTwoList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinMutation_433.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinimumTotal_120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MyLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/NumIslands_200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Permute_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Permute_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Pow_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveNthFromEnd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ReverseBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ReverseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobIII_337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobII_213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Rob_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateMatrix_48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateSearch_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ShortestPathBinaryMatrix_1091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/StairCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/StringMultiply_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSetsII_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSets_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ThreeSum0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/TwoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePathsWithObstacles_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePaths_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ValidBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ZTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Zconvert_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/addTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/dto/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/aspect/DoSth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/Employee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/MyEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/MyFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/MyPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/config/CacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/config/MyCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/config/ScheduleConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/config/WebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/dao/BaseDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/juc/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/juc/ObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/utils/SpringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/emps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Algorithm/MiddleValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/command/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/MyObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/MySubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/proxypattern/OwnInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/proxypattern/PersonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/proxypattern/PersonBeanImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/designpattern/proxypattern/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jvm/AtomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/annotationTest/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/CountDownLatchTestNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/LockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/LogWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/Memoizer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/MyExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/MyThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/PrimeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/TestHarness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/ThreadDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/designpattern/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/designpattern/MyHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/Beetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/ImmutableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/KotlinServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/KotlinTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/MyKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/PackageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/ProductDO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/RunClazzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/StopThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/inter/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/inter/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/inter/TestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/io/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/io/test11111.file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/FinalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/Sugar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/Volatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/springjiemi/MyFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/EvenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/EvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/IntGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/Interrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/ListSyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/PerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/TaskWithResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springJieMi/EventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springbootinaction/DoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springbootinaction/DoServiceCGlibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springbootinaction/DoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springbootinaction/DoServiceJdkProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/springbootinaction/ProxtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/ServiceStarter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/aspect/DoSth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/Employee2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/MyEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/MyFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/MyListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/MyPublisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/config/CacheConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/config/MvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/config/MyCondition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/config/ScheduleConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/config/WebAppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/dao/BaseDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/dao/EmployeeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/dao/EmployeeDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/mapper/EmployeeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/com/ruanxinxin/mvc01/utils/SpringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/static/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/templates/emps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/classes/templates/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/annotations-13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/aspectjweaver-1.8.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/groovy-2.4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/hibernate-validator-5.3.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jackson-core-2.8.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jackson-databind-2.8.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/kotlin-stdlib-1.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/kotlin-stdlib-jre7-1.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/kotlin-stdlib-jre8-1.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/logback-classic-1.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/logback-core-1.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/mybatis-3.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/mybatis-spring-boot-starter-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/mysql-connector-java-5.1.44.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/nekohtml-1.9.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/ognl-3.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/snakeyaml-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-autoconfigure-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-devtools-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-aop-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-jdbc-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-logging-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-thymeleaf-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-tomcat-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-boot-starter-web-1.5.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/thymeleaf-2.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/thymeleaf-layout-dialect-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/thymeleaf-spring4-2.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-annotations-api-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-embed-core-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-embed-el-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-jdbc-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/tomcat-juli-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/unbescape-1.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/xercesImpl-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/POM/WEB-INF/lib/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mapper.ruanxinxin.mvc01.employee.EmployeeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mapper.ruanxinxin.mvc01.employee.KotlinTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/mapper.ruanxinxin.mvc01.employee.EmployeeTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/mapper.ruanxinxin.mvc01.employee.KotlinTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xinxinalgorithm.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mybatisProj01$EmployeeTest_insertTest.coverage" NAME="EmployeeTest.insertTest Coverage Results" MODIFIED="1505960018017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ruanxinxin.employee.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mybatisProj01$mvc01.coverage" NAME="mvc01 Coverage Results" MODIFIED="1506244338856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/mybatisProj01$QuickSort.ic" NAME="QuickSort Coverage Results" MODIFIED="1581499043624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ruanxinxin.mvc01.algorithm.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="75" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1386743920">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.3915" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="113" />
+          <entry key="java" value="318" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="113" />
+          <entry key="JAVA" value="318" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="152" />
+          <entry key="java" value="41999" />
+          <entry key="xml" value="166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="41999" />
+          <entry key="PLAIN_TEXT" value="152" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="164" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1695542333">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding>
+                <element signature="method#main#0;class#SequenceTotal0#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Kotlin Class" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>striped</find>
+      <find>synchronized</find>
+      <find>default</find>
+      <find>defaultViewResolver</find>
+      <find>addconverter</find>
+      <find>WebMvcAutoConfigurationAdapter</find>
+      <find>filter</find>
+      <find>embeddedservletcontainercustomizer</find>
+      <find>tomcatembeddedservletcontainerfactory</find>
+      <find>embeddedservletcontainerfactory</find>
+      <find>contextClass</find>
+      <find>；</find>
+      <find>）</find>
+      <find>IntegerCache</find>
+      <find>state</find>
+      <find>beandefinitionrea</find>
+      <find>getbean</find>
+      <find>createbean</find>
+      <find>applicationContext</find>
+      <find>applicationContexta</find>
+      <find>applicationEventMulticaster</find>
+      <find>l</find>
+      <find>lis</find>
+      <find>事件</find>
+      <find>handle</find>
+      <find>addlast</find>
+      <find>substring</find>
+      <find>add</find>
+      <find>toarray</find>
+      <find>pop</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>;</replace>
+      <replace>)</replace>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateMatrix_48.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsIsValid_20.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/GroupAnagrams_49.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/InorderTree_94.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/InorderTree_94.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/InorderTree_94_Loop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/dto/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/IsValidBST_98.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Pow_50.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSets_78.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LevelOrder_102.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/NumIslands_200.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CanJump_55.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BinSearch_704.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateSearch_33.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePaths_63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePaths_62.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePathsWithObstacles_63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestCommonSubsequence_1143.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinimumTotal_120.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MaxProduct_152.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinChange_322.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Rob_198.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobII_198.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobII_213.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobIII_337.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Trie_208.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Trie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LadderLength_127.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinMutation_433.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ShortestPathBinaryMatrix_1091.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CountBits_338.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BloomFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SortArray_912.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestPalindrome_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/AddTwoNumbers_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/addTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/LengthOfLongestSubstring_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Zconvert_6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSetsII_90.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BuyAndSellStocksII.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testGrammar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Documents/java/dev/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/java/dev/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisProj01 Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisProj01 Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisProj01 Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-jdbc:1.5.8.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatisProj01" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mybatisProj01" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="mybatisProj01" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mybatisProj01" type="616d4139:PackageViewModuleNode" />
+              <item name="com.ruanxinxin" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xinxinalgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xinxinalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc01" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="li&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;char&#9;PSI&#9;JAVA://java.lang.Character&#10;arrayl&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;linkedl&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;deque&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Deque.java&#10;Linkedlist&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;coin&#9;PSI&#9;JAVA://com.ruanxinxin.mvc01.algorithm.CoinCount" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637717978070" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="mapper.ruanxinxin.mvc01" />
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ruanxinxin.mvc01.algorithm" />
+      <recent name="com.ruanxinxin.mvc01.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SequenceTotal0">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BracketsCount_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruanxinxin.mvc01.algorithm.BracketsCount_22" />
+      <module name="xinxinalgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruanxinxin.mvc01.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRange_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruanxinxin.mvc01.algorithm.SearchRange_34" />
+      <module name="xinxinalgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruanxinxin.mvc01.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceTotal0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruanxinxin.mvc01.algorithm.SequenceTotal0" />
+      <module name="xinxinalgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruanxinxin.mvc01.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruanxinxin.mvc01.Solution" />
+      <module name="xinxinalgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruanxinxin.mvc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGrammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testGrammar" />
+      <module name="xinxinalgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xinxinalgorithm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruanxinxin.mvc01.ServiceStarter" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mybatisProj01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51084" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvc01" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="mybatisProj01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatisProj01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51084" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mybatisProj01:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Tomcat Server.mvc01" />
+      <item itemvalue="Application.testGrammar" />
+      <item itemvalue="Application.BracketsCount_22" />
+      <item itemvalue="Application.SearchRange_34" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.SequenceTotal0" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SequenceTotal0" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.testGrammar" />
+        <item itemvalue="Application.SearchRange_34" />
+        <item itemvalue="Application.BracketsCount_22" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4560afd-9aff-439d-b51e-8a7c1626b36f" name="Default" comment="" />
+      <created>1505786964130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505786964130</updated>
+      <workItem from="1505786967515" duration="5946000" />
+      <workItem from="1505815321058" duration="675000" />
+      <workItem from="1505820563055" duration="392000" />
+      <workItem from="1505821138158" duration="16989000" />
+      <workItem from="1505897721692" duration="18079000" />
+      <workItem from="1506048286914" duration="535000" />
+      <workItem from="1506048985039" duration="47583000" />
+      <workItem from="1506930279468" duration="4282000" />
+      <workItem from="1507599624838" duration="6966000" />
+      <workItem from="1508406265895" duration="1773000" />
+      <workItem from="1508805932659" duration="196000" />
+      <workItem from="1508806157324" duration="2711000" />
+      <workItem from="1508926527932" duration="46850000" />
+      <workItem from="1509957320496" duration="6712000" />
+      <workItem from="1510278196864" duration="3965000" />
+      <workItem from="1510301602242" duration="435000" />
+      <workItem from="1510534408812" duration="279000" />
+      <workItem from="1510620491251" duration="1375000" />
+      <workItem from="1510638834642" duration="3881000" />
+      <workItem from="1511398931110" duration="3778000" />
+      <workItem from="1513907684323" duration="2668000" />
+      <workItem from="1515032037963" duration="1357000" />
+      <workItem from="1515375710223" duration="2029000" />
+      <workItem from="1515825478878" duration="3503000" />
+      <workItem from="1516581358173" duration="4121000" />
+      <workItem from="1517532402854" duration="5142000" />
+      <workItem from="1519375074617" duration="4164000" />
+      <workItem from="1519438920644" duration="10588000" />
+      <workItem from="1519737631457" duration="19449000" />
+      <workItem from="1519974032672" duration="196000" />
+      <workItem from="1519974259899" duration="16042000" />
+      <workItem from="1520403759060" duration="18615000" />
+      <workItem from="1520900984411" duration="19725000" />
+      <workItem from="1521772596470" duration="3935000" />
+      <workItem from="1524031692941" duration="5749000" />
+      <workItem from="1524148804069" duration="5419000" />
+      <workItem from="1528251056033" duration="3252000" />
+      <workItem from="1528717211586" duration="2629000" />
+      <workItem from="1530682544776" duration="323000" />
+      <workItem from="1531791886813" duration="125000" />
+      <workItem from="1532310751177" duration="6227000" />
+      <workItem from="1532948812102" duration="8341000" />
+      <workItem from="1533123360991" duration="5192000" />
+      <workItem from="1533516155955" duration="7055000" />
+      <workItem from="1534579452471" duration="257000" />
+      <workItem from="1534580232756" duration="10058000" />
+      <workItem from="1535330423568" duration="17145000" />
+      <workItem from="1537921970851" duration="4764000" />
+      <workItem from="1538292870524" duration="168000" />
+      <workItem from="1538958654961" duration="2793000" />
+      <workItem from="1539651318439" duration="1684000" />
+      <workItem from="1539734826564" duration="359000" />
+      <workItem from="1539909827328" duration="790000" />
+      <workItem from="1540811365024" duration="1165000" />
+      <workItem from="1566261599722" duration="2393000" />
+      <workItem from="1571633301606" duration="3235000" />
+      <workItem from="1571637145518" duration="70000" />
+      <workItem from="1571723777481" duration="284000" />
+      <workItem from="1580987578776" duration="47672000" />
+      <workItem from="1581670322779" duration="21557000" />
+      <workItem from="1606619265426" duration="4113000" />
+      <workItem from="1607133557262" duration="14436000" />
+      <workItem from="1607191345046" duration="83873000" />
+      <workItem from="1630751160089" duration="2351000" />
+      <workItem from="1637718247139" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 21m 28s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 27m 28s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 28m 53s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 33m 32s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 37m 46s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 38m 18s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 39m 34s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2019.10.21 at 13h 40m 21s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.21 at 13h 53m 29s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_addEmployeeTest - 2019.10.22 at 14h 00m 44s.xml">
+      <configuration name="MyTest.addEmployeeTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="548719000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" x="275" y="166" width="305" height="710" id="Project" order="0" sideWeight="0.49194548" visible="true" weight="0.2825465" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Structure" order="4" sideWeight="0.5080545" side_tool="true" weight="0.3018598" />
+      <window_info id="Web" order="5" sideWeight="0.5129032" side_tool="true" weight="0.28055555" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283767" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.23172243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34324658" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32769045" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3283767" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.22304833" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32713756" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31474596" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32889965" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32889965" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3283582" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3283582" />
+      <window_info anchor="bottom" auto_hide="true" id="Problems" internal_type="SLIDING" order="16" show_stripe_button="false" type="SLIDING" weight="0.329602" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="0" sideWeight="0.4864865" weight="0.40128756" />
+      <window_info anchor="right" id="Bean Validation" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" sideWeight="0.4898305" weight="0.11230329" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.4861368" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5135135" side_tool="true" weight="0.3204578" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="275" y="166" width="305" height="710" id="Project" order="0" sideWeight="0.49194548" visible="true" weight="0.30615166" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Structure" order="4" sideWeight="0.5080545" side_tool="true" weight="0.3018598" />
+      <window_info id="Web" order="5" sideWeight="0.5129032" side_tool="true" weight="0.28055555" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" weight="0.51548946" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34200743" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32769045" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3283767" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.22304833" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.3283582" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3283582" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32889965" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32889965" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3283582" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3283582" />
+      <window_info anchor="bottom" auto_hide="true" id="Problems" internal_type="SLIDING" order="16" show_stripe_button="false" type="SLIDING" weight="0.329602" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" sideWeight="0.4898305" weight="0.11230329" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4864865" weight="0.40138888" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.4861368" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5135135" side_tool="true" weight="0.3204578" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/controller/EmployeeController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/employee/EmployeeTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/Interrupt.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/Interrupt.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/WaxOMatic.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/FieldTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/thread/FieldTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/PrimeGenerator.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/PrimeGenerator.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/designpattern/proxypattern/OwnInvocationHandler.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/LockDemo.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/LockDemo.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/dao/BaseDAOImpl.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/springbootinaction/DoServiceJdkProxy.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/springbootinaction/ProxtTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.class</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.class</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.class</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoader.class</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoader.class</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoader.class</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoader.class</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SuperClass.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SubClass.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/MainClass.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/SemaphoreTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/concurrency/SemaphoreTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/utils/SpringUtil.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.jar!/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.class</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.jar!/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.class</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/support/ServletRequestHandledEvent.class</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/support/ServletRequestHandledEvent.class</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/support/ServletRequestHandledEvent.class</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/context/support/ServletRequestHandledEvent.class</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.class</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.class</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.class</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.class</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.class</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.class</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class</url>
+          <line>441</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/MyTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/juc/JoinTest.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QuickSort.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/TwoNumberSum.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/addTwoNumbers.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MaxArea.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ThreeSum0.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestCommonPrefix.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/PhoneNumber.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveNthFromEnd.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeTwoList.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RomanToInt.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ValidBrackets.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveDuplicates.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SwapPairs.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SwapPairs.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SwapPairs.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestSubstring.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ZTransfer.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeTwoList2.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestPalindrome.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MyLock.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MyLock.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QueueTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Jump.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Jump.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Pow.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinCount.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BuyAndSellStocksII.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeKIntervals.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeKIntervals.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MergeKIntervals.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/DeleteDuplicateNode.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/DeleteDuplicateNode.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ReverseBetween.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ReverseBetween.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ReverseBetween.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LetterCombinations_17.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CombinationSum_39.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Permute_46.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateMatrix_48.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/IsValidBST_98.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/NumIslands_200.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/NumIslands_200.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/NumIslands_200.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BinSearch_704.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateSearch_33.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateSearch_33.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePaths_62.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinimumTotal_120.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LadderLength_127.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ShortestPathBinaryMatrix_1091.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/LengthOfLongestSubstring_3.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/Solution.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/dao/BaseDAOImpl.java</url>
+          <line>17</line>
+          <properties class="com.ruanxinxin.mvc01.dao.BaseDAOImpl" method="setSqlSessionTemplate" />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/juc/ObjectPool.java</url>
+          <line>36</line>
+          <properties class="com.ruanxinxin.mvc01.juc.ObjectPool" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SubClass.java</url>
+          <line>4</line>
+          <properties field="B" class="mapper.ruanxinxin.mvc01.jvm.SubClass" />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/mapper/ruanxinxin/mvc01/jvm/SuperClass.java</url>
+          <line>8</line>
+          <properties field="A" class="mapper.ruanxinxin.mvc01.jvm.SuperClass" />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="context.containsBean(&quot;Person&quot;)" language="JAVA" />
+      </configuration>
+      <configuration name="JUnit">
+        <watch expression="primes.contains(new BigInteger(19))" language="JAVA" />
+        <watch expression="mapper.getAllEmployees()" language="JAVA" />
+      </configuration>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="contextClassLoader" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="s.substring(1,5)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>m==0&amp;&amp;n==0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>s.substring(1,5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>grid[row - 1][col - 1] + Math.min(dp[row - 1][col], dp[row][col - 1])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[0]&lt;nums[mid]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visited[3][4]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[0][1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resultList.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resultList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1==null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RotateSearch_33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <element signature="method#main#0;class#RotateSearch_33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePaths_62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/UniquePathsWithObstacles_63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinimumTotal_120.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#minimumTotal#0;class#MinimumTotal_120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestCommonSubsequence_1143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MaxProduct_152.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="method#main#0;class#CoinCount#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CoinChange_322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Rob_198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="42" column="50" lean-forward="true" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobII_213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RobIII_337.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinMutation_433.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LadderLength_127.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#LadderLength_127#0" />
+            <element signature="method#ladderLength#0;class#LadderLength_127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ShortestPathBinaryMatrix_1091.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2470#2471#0" expanded="true" />
+            <element signature="e#2531#2532#0" expanded="true" />
+            <element signature="method#main#0;class#ShortestPathBinaryMatrix_1091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/CountBits_338.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/ServiceStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1256">
+          <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SortArray_912.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/LongestPalindrome_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/addTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+            <element signature="method#toString#0;class#ListNode#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/AddTwoNumbers_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="180" column="21" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/LengthOfLongestSubstring_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#LengthOfLongestSubstring_3#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Zconvert_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="473" column="11" selection-start-line="473" selection-start-column="11" selection-end-line="473" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/ValidBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="method#isValid#0;class#ValidBrackets#0" expanded="true" />
+            <element signature="method#main#0;class#ValidBrackets#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BracketsCount_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generateParenthesis#0;class#BracketsCount_22#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SearchRange_34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="method#searchRange#0;class#SearchRange_34#0" expanded="true" />
+            <element signature="method#main#0;class#SearchRange_34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="method#solution#0;class#RemoveDuplicates#0" expanded="true" />
+            <element signature="method#main#0;class#RemoveDuplicates#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSets_78.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SubSetsII_90.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12306">
+          <caret line="766" column="21" selection-start-line="766" selection-start-column="21" selection-end-line="766" selection-end-column="21" />
+          <folding>
+            <element signature="e#23119#24163#0" expanded="true" />
+            <element signature="e#111258#113186#0" expanded="true" />
+            <element signature="e#113377#113923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5565">
+          <caret line="397" column="23" selection-start-line="397" selection-start-column="23" selection-end-line="397" selection-end-column="23" />
+          <folding>
+            <element signature="e#5494#6146#0" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7749">
+          <caret line="5668" column="57" selection-start-line="5668" selection-start-column="57" selection-end-line="5668" selection-end-column="57" />
+          <folding>
+            <element signature="docComment;class#Character#0" />
+            <element signature="e#4596#5121#0" />
+            <element signature="e#5170#5694#0" />
+            <element signature="e#5744#5898#0" />
+            <element signature="e#5955#6108#0" />
+            <element signature="e#6165#6290#0" />
+            <element signature="e#6525#6615#0" />
+            <element signature="e#6666#6756#0" />
+            <element signature="e#6813#6903#0" />
+            <element signature="e#6960#7050#0" />
+            <element signature="e#7107#7197#0" />
+            <element signature="e#7253#7343#0" />
+            <element signature="e#7396#7486#0" />
+            <element signature="e#7543#7633#0" />
+            <element signature="e#7688#7778#0" />
+            <element signature="e#7841#7931#0" />
+            <element signature="e#7999#8089#0" />
+            <element signature="e#8144#8234#0" />
+            <element signature="e#8288#8378#0" />
+            <element signature="e#8435#8525#0" />
+            <element signature="e#8581#8671#0" />
+            <element signature="e#8732#8822#0" />
+            <element signature="e#8871#8961#0" />
+            <element signature="e#9009#9099#0" />
+            <element signature="e#9152#9242#0" />
+            <element signature="e#9293#9383#0" />
+            <element signature="e#9441#9531#0" />
+            <element signature="e#9590#9680#0" />
+            <element signature="e#9737#9827#0" />
+            <element signature="e#9890#9980#0" />
+            <element signature="e#10039#10129#0" />
+            <element signature="e#10182#10272#0" />
+            <element signature="e#10329#10419#0" />
+            <element signature="e#10476#10566#0" />
+            <element signature="e#10620#10710#0" />
+            <element signature="e#10777#10867#0" />
+            <element signature="e#10932#11015#0" />
+            <element signature="e#11063#11236#0" />
+            <element signature="e#11302#11408#0" />
+            <element signature="e#11477#11583#0" />
+            <element signature="e#11652#11758#0" />
+            <element signature="e#11834#11939#0" />
+            <element signature="e#12010#12115#0" />
+            <element signature="e#12196#12301#0" />
+            <element signature="e#12383#12488#0" />
+            <element signature="e#12557#12662#0" />
+            <element signature="e#12741#12847#0" />
+            <element signature="e#12918#13023#0" />
+            <element signature="e#13095#13202#0" />
+            <element signature="e#13278#13385#0" />
+            <element signature="e#13459#13567#0" />
+            <element signature="e#13634#13742#0" />
+            <element signature="e#13813#13921#0" />
+            <element signature="e#14001#14109#0" />
+            <element signature="e#14188#14296#0" />
+            <element signature="e#14376#14484#0" />
+            <element signature="e#14563#14669#0" />
+            <element signature="e#14748#15066#0" />
+            <element signature="e#15132#15450#0" />
+            <element signature="e#15516#15832#0" />
+            <element signature="e#15898#16214#0" />
+            <element signature="e#16280#16437#0" />
+            <element signature="e#16508#16665#0" />
+            <element signature="e#16735#16948#0" />
+            <element signature="e#17023#17207#0" />
+            <element signature="e#17268#17454#0" />
+            <element signature="e#17516#17852#0" />
+            <element signature="e#17516#19245#0" />
+            <element signature="e#17926#18121#0" />
+            <element signature="e#18313#18614#0" />
+            <element signature="e#18718#19009#0" />
+            <element signature="e#19104#19163#0" />
+            <element signature="e#19251#19306#0" />
+            <element signature="e#19367#19664#0" />
+            <element signature="e#19367#113574#0" />
+            <element signature="e#19810#19954#0" />
+            <element signature="e#20082#20189#0" />
+            <element signature="e#20329#20437#0" />
+            <element signature="e#20627#20731#0" />
+            <element signature="e#20929#21040#0" />
+            <element signature="e#21265#21374#0" />
+            <element signature="e#21591#21700#0" />
+            <element signature="e#21917#22024#0" />
+            <element signature="e#22233#22350#0" />
+            <element signature="e#22598#22718#0" />
+            <element signature="e#22978#23178#0" />
+            <element signature="e#23372#23473#0" />
+            <element signature="e#23577#23678#0" />
+            <element signature="e#23782#23881#0" />
+            <element signature="e#23981#24080#0" />
+            <element signature="e#24180#24283#0" />
+            <element signature="e#24391#24491#0" />
+            <element signature="e#24593#24694#0" />
+            <element signature="e#24798#24899#0" />
+            <element signature="e#25003#25101#0" />
+            <element signature="e#25199#25297#0" />
+            <element signature="e#25395#25494#0" />
+            <element signature="e#25594#25694#0" />
+            <element signature="e#25796#25898#0" />
+            <element signature="e#26004#26101#0" />
+            <element signature="e#26197#26293#0" />
+            <element signature="e#26387#26487#0" />
+            <element signature="e#26589#26690#0" />
+            <element signature="e#26794#26898#0" />
+            <element signature="e#27095#27213#0" />
+            <element signature="e#27465#27572#0" />
+            <element signature="e#27781#27893#0" />
+            <element signature="e#28122#28253#0" />
+            <element signature="e#28513#28622#0" />
+            <element signature="e#28839#29074#0" />
+            <element signature="e#29473#29584#0" />
+            <element signature="e#29809#29914#0" />
+            <element signature="e#30115#30214#0" />
+            <element signature="e#30314#30429#0" />
+            <element signature="e#30670#30786#0" />
+            <element signature="e#31031#31140#0" />
+            <element signature="e#31357#31479#0" />
+            <element signature="e#31747#31862#0" />
+            <element signature="e#32103#32207#0" />
+            <element signature="e#32404#32511#0" />
+            <element signature="e#32720#32829#0" />
+            <element signature="e#33046#33160#0" />
+            <element signature="e#33397#33498#0" />
+            <element signature="e#33602#33722#0" />
+            <element signature="e#33981#34082#0" />
+            <element signature="e#34186#34287#0" />
+            <element signature="e#34391#34492#0" />
+            <element signature="e#34596#34714#0" />
+            <element signature="e#34966#35065#0" />
+            <element signature="e#35165#35289#0" />
+            <element signature="e#35563#35673#0" />
+            <element signature="e#35894#36009#0" />
+            <element signature="e#36249#36358#0" />
+            <element signature="e#36575#36684#0" />
+            <element signature="e#36900#37032#0" />
+            <element signature="e#37296#37418#0" />
+            <element signature="e#37686#37817#0" />
+            <element signature="e#38077#38190#0" />
+            <element signature="e#38422#38538#0" />
+            <element signature="e#38782#38894#0" />
+            <element signature="e#39122#39242#0" />
+            <element signature="e#39502#39635#0" />
+            <element signature="e#39902#40003#0" />
+            <element signature="e#40107#40542#0" />
+            <element signature="e#40680#40779#0" />
+            <element signature="e#40879#40978#0" />
+            <element signature="e#41078#41178#0" />
+            <element signature="e#41280#41380#0" />
+            <element signature="e#41482#41583#0" />
+            <element signature="e#41687#41788#0" />
+            <element signature="e#41892#42022#0" />
+            <element signature="e#42321#42419#0" />
+            <element signature="e#42517#42615#0" />
+            <element signature="e#42713#42811#0" />
+            <element signature="e#42909#43011#0" />
+            <element signature="e#43117#43226#0" />
+            <element signature="e#43443#43559#0" />
+            <element signature="e#43803#43911#0" />
+            <element signature="e#44124#44251#0" />
+            <element signature="e#44539#44649#0" />
+            <element signature="e#44870#44997#0" />
+            <element signature="e#45283#45388#0" />
+            <element signature="e#45589#45693#0" />
+            <element signature="e#45890#46005#0" />
+            <element signature="e#46349#46449#0" />
+            <element signature="e#46551#46651#0" />
+            <element signature="e#46753#46851#0" />
+            <element signature="e#46949#47050#0" />
+            <element signature="e#47154#47252#0" />
+            <element signature="e#47350#47449#0" />
+            <element signature="e#47626#47732#0" />
+            <element signature="e#47937#48049#0" />
+            <element signature="e#48278#48407#0" />
+            <element signature="e#48703#48817#0" />
+            <element signature="e#49054#49168#0" />
+            <element signature="e#49405#49545#0" />
+            <element signature="e#49841#49980#0" />
+            <element signature="e#50272#50408#0" />
+            <element signature="e#50687#50819#0" />
+            <element signature="e#51083#51199#0" />
+            <element signature="e#51443#51555#0" />
+            <element signature="e#51784#51895#0" />
+            <element signature="e#52119#52230#0" />
+            <element signature="e#52454#52561#0" />
+            <element signature="e#52770#52873#0" />
+            <element signature="e#53066#53165#0" />
+            <element signature="e#53265#53366#0" />
+            <element signature="e#53470#53570#0" />
+            <element signature="e#53672#53772#0" />
+            <element signature="e#53874#53974#0" />
+            <element signature="e#54076#54186#0" />
+            <element signature="e#54407#54525#0" />
+            <element signature="e#54777#54885#0" />
+            <element signature="e#55098#55212#0" />
+            <element signature="e#55447#55584#0" />
+            <element signature="e#55868#56006#0" />
+            <element signature="e#56292#56424#0" />
+            <element signature="e#56731#56828#0" />
+            <element signature="e#56924#57058#0" />
+            <element signature="e#57330#57466#0" />
+            <element signature="e#57745#57881#0" />
+            <element signature="e#58160#58391#0" />
+            <element signature="e#58604#58870#0" />
+            <element signature="e#59129#59358#0" />
+            <element signature="e#59567#59677#0" />
+            <element signature="e#59898#59994#0" />
+            <element signature="e#60088#60190#0" />
+            <element signature="e#60296#60396#0" />
+            <element signature="e#60498#60610#0" />
+            <element signature="e#60839#60989#0" />
+            <element signature="e#61323#61427#0" />
+            <element signature="e#61623#61724#0" />
+            <element signature="e#61828#61929#0" />
+            <element signature="e#62114#62215#0" />
+            <element signature="e#62319#62421#0" />
+            <element signature="e#62527#62625#0" />
+            <element signature="e#62723#62822#0" />
+            <element signature="e#62922#63023#0" />
+            <element signature="e#63208#63317#0" />
+            <element signature="e#63534#63668#0" />
+            <element signature="e#63940#64082#0" />
+            <element signature="e#64385#64488#0" />
+            <element signature="e#64596#64705#0" />
+            <element signature="e#64922#65021#0" />
+            <element signature="e#65121#65233#0" />
+            <element signature="e#65462#65563#0" />
+            <element signature="e#65667#65777#0" />
+            <element signature="e#65998#66110#0" />
+            <element signature="e#66339#66456#0" />
+            <element signature="e#66705#66809#0" />
+            <element signature="e#67006#67103#0" />
+            <element signature="e#67199#67295#0" />
+            <element signature="e#67389#67501#0" />
+            <element signature="e#67730#67828#0" />
+            <element signature="e#67926#68040#0" />
+            <element signature="e#68276#68385#0" />
+            <element signature="e#68602#68707#0" />
+            <element signature="e#68908#69026#0" />
+            <element signature="e#69277#69378#0" />
+            <element signature="e#69523#69626#0" />
+            <element signature="e#69734#69846#0" />
+            <element signature="e#70075#70176#0" />
+            <element signature="e#70361#70460#0" />
+            <element signature="e#70560#70675#0" />
+            <element signature="e#70915#71016#0" />
+            <element signature="e#71120#71217#0" />
+            <element signature="e#71313#71424#0" />
+            <element signature="e#71649#71750#0" />
+            <element signature="e#71935#72047#0" />
+            <element signature="e#72276#72381#0" />
+            <element signature="e#72582#72697#0" />
+            <element signature="e#72937#73044#0" />
+            <element signature="e#73253#73367#0" />
+            <element signature="e#73603#73711#0" />
+            <element signature="e#73924#74030#0" />
+            <element signature="e#74235#74334#0" />
+            <element signature="e#74434#74533#0" />
+            <element signature="e#74633#74737#0" />
+            <element signature="e#74934#75043#0" />
+            <element signature="e#75260#75363#0" />
+            <element signature="e#75471#75570#0" />
+            <element signature="e#75670#75773#0" />
+            <element signature="e#75881#75991#0" />
+            <element signature="e#76211#76311#0" />
+            <element signature="e#76413#76528#0" />
+            <element signature="e#76769#76883#0" />
+            <element signature="e#77120#77223#0" />
+            <element signature="e#77416#77529#0" />
+            <element signature="e#77761#77860#0" />
+            <element signature="e#77960#78059#0" />
+            <element signature="e#78159#78261#0" />
+            <element signature="e#78367#78504#0" />
+            <element signature="e#78787#78900#0" />
+            <element signature="e#79133#79242#0" />
+            <element signature="e#79459#79567#0" />
+            <element signature="e#79780#79914#0" />
+            <element signature="e#80185#80299#0" />
+            <element signature="e#80535#80641#0" />
+            <element signature="e#80846#80951#0" />
+            <element signature="e#81152#81258#0" />
+            <element signature="e#81463#81599#0" />
+            <element signature="e#81879#82014#0" />
+            <element signature="e#82290#82431#0" />
+            <element signature="e#82730#82832#0" />
+            <element signature="e#82938#83056#0" />
+            <element signature="e#83307#83418#0" />
+            <element signature="e#83643#83781#0" />
+            <element signature="e#84067#84205#0" />
+            <element signature="e#84491#84601#0" />
+            <element signature="e#84822#84935#0" />
+            <element signature="e#85168#85284#0" />
+            <element signature="e#85528#85641#0" />
+            <element signature="e#85874#85983#0" />
+            <element signature="e#86200#86305#0" />
+            <element signature="e#86506#86605#0" />
+            <element signature="e#86705#86805#0" />
+            <element signature="e#86907#87005#0" />
+            <element signature="e#87103#87200#0" />
+            <element signature="e#87296#87438#0" />
+            <element signature="e#108881#109664#0" />
+            <element signature="e#109763#110534#0" />
+            <element signature="e#111257#113286#0" />
+            <element signature="e#113581#114201#0" />
+            <element signature="e#113581#150968#0" />
+            <element signature="e#114249#114300#0" />
+            <element signature="e#114326#114376#0" />
+            <element signature="e#114401#114451#0" />
+            <element signature="e#114476#114529#0" />
+            <element signature="e#114557#114610#0" />
+            <element signature="e#114638#114689#0" />
+            <element signature="e#114715#114766#0" />
+            <element signature="e#114792#114843#0" />
+            <element signature="e#114869#114920#0" />
+            <element signature="e#114946#115001#0" />
+            <element signature="e#115031#115083#0" />
+            <element signature="e#115110#115163#0" />
+            <element signature="e#115191#115244#0" />
+            <element signature="e#115272#115322#0" />
+            <element signature="e#115347#115397#0" />
+            <element signature="e#115422#115473#0" />
+            <element signature="e#115499#115551#0" />
+            <element signature="e#115578#115632#0" />
+            <element signature="e#115661#115713#0" />
+            <element signature="e#115740#115789#0" />
+            <element signature="e#115813#115861#0" />
+            <element signature="e#115884#115936#0" />
+            <element signature="e#115963#116015#0" />
+            <element signature="e#116042#116095#0" />
+            <element signature="e#116123#116174#0" />
+            <element signature="e#116200#116253#0" />
+            <element signature="e#116281#116334#0" />
+            <element signature="e#116362#116426#0" />
+            <element signature="e#116465#116515#0" />
+            <element signature="e#116540#116590#0" />
+            <element signature="e#116615#116665#0" />
+            <element signature="e#116690#116744#0" />
+            <element signature="e#116773#116826#0" />
+            <element signature="e#116854#116907#0" />
+            <element signature="e#116935#116988#0" />
+            <element signature="e#117016#117064#0" />
+            <element signature="e#117087#117134#0" />
+            <element signature="e#117156#117211#0" />
+            <element signature="e#117241#117292#0" />
+            <element signature="e#117318#117370#0" />
+            <element signature="e#117397#117451#0" />
+            <element signature="e#117480#117532#0" />
+            <element signature="e#117559#117611#0" />
+            <element signature="e#117638#117688#0" />
+            <element signature="e#117713#117766#0" />
+            <element signature="e#117794#117844#0" />
+            <element signature="e#117869#117920#0" />
+            <element signature="e#117946#117999#0" />
+            <element signature="e#118027#118080#0" />
+            <element signature="e#118108#118160#0" />
+            <element signature="e#118187#118239#0" />
+            <element signature="e#118266#118318#0" />
+            <element signature="e#118345#118397#0" />
+            <element signature="e#118424#118477#0" />
+            <element signature="e#118505#118556#0" />
+            <element signature="e#118582#118638#0" />
+            <element signature="e#118669#118724#0" />
+            <element signature="e#118754#118807#0" />
+            <element signature="e#118835#118892#0" />
+            <element signature="e#118924#118980#0" />
+            <element signature="e#119011#119066#0" />
+            <element signature="e#119096#119149#0" />
+            <element signature="e#119177#119231#0" />
+            <element signature="e#119260#119315#0" />
+            <element signature="e#119345#119398#0" />
+            <element signature="e#119426#119474#0" />
+            <element signature="e#119497#119551#0" />
+            <element signature="e#119580#119630#0" />
+            <element signature="e#119655#119706#0" />
+            <element signature="e#119732#119785#0" />
+            <element signature="e#119813#119861#0" />
+            <element signature="e#119884#119939#0" />
+            <element signature="e#119969#120022#0" />
+            <element signature="e#120050#120101#0" />
+            <element signature="e#120127#120178#0" />
+            <element signature="e#120204#120255#0" />
+            <element signature="e#120281#120332#0" />
+            <element signature="e#120358#120407#0" />
+            <element signature="e#120431#120484#0" />
+            <element signature="e#120512#120565#0" />
+            <element signature="e#120593#120645#0" />
+            <element signature="e#120672#120737#0" />
+            <element signature="e#120777#120831#0" />
+            <element signature="e#120860#120912#0" />
+            <element signature="e#120939#120988#0" />
+            <element signature="e#121012#121062#0" />
+            <element signature="e#121087#121140#0" />
+            <element signature="e#121168#121225#0" />
+            <element signature="e#121257#121318#0" />
+            <element signature="e#121354#121416#0" />
+            <element signature="e#121453#121520#0" />
+            <element signature="e#121562#121628#0" />
+            <element signature="e#121669#121724#0" />
+            <element signature="e#121754#121805#0" />
+            <element signature="e#121831#121882#0" />
+            <element signature="e#121908#121973#0" />
+            <element signature="e#122013#122074#0" />
+            <element signature="e#122110#122167#0" />
+            <element signature="e#122199#122250#0" />
+            <element signature="e#122276#122328#0" />
+            <element signature="e#122355#122405#0" />
+            <element signature="e#122430#122479#0" />
+            <element signature="e#122503#122555#0" />
+            <element signature="e#145373#145425#0" />
+            <element signature="e#148386#148980#0" />
+            <element signature="e#149499#150609#0" />
+            <element signature="e#150974#151050#0" />
+            <element signature="e#151086#151149#0" />
+            <element signature="e#151226#151470#0" />
+            <element signature="e#151545#151819#0" />
+            <element signature="e#151825#152557#0" />
+            <element signature="e#152745#152908#0" />
+            <element signature="e#152972#153165#0" />
+            <element signature="e#153261#153539#0" />
+            <element signature="e#153623#154038#0" />
+            <element signature="e#154220#154545#0" />
+            <element signature="e#154654#154989#0" />
+            <element signature="e#155079#155544#0" />
+            <element signature="e#155613#155634#0" />
+            <element signature="e#155812#156308#0" />
+            <element signature="e#156413#156434#0" />
+            <element signature="e#156620#157092#0" />
+            <element signature="e#157277#158110#0" />
+            <element signature="e#158327#159112#0" />
+            <element signature="e#159248#160068#0" />
+            <element signature="e#160193#160861#0" />
+            <element signature="e#160999#161753#0" />
+            <element signature="e#161880#162382#0" />
+            <element signature="e#162448#162469#0" />
+            <element signature="e#162830#163884#0" />
+            <element signature="e#164225#165235#0" />
+            <element signature="e#165356#166644#0" />
+            <element signature="e#167276#168295#0" />
+            <element signature="e#168631#169622#0" />
+            <element signature="e#169744#171101#0" />
+            <element signature="e#171750#172860#0" />
+            <element signature="e#173045#174153#0" />
+            <element signature="e#174283#175890#0" />
+            <element signature="e#176285#177039#0" />
+            <element signature="e#177677#178718#0" />
+            <element signature="e#179280#180206#0" />
+            <element signature="e#180840#181898#0" />
+            <element signature="e#183012#184587#0" />
+            <element signature="e#185989#187581#0" />
+            <element signature="e#187679#189110#0" />
+            <element signature="e#189316#190896#0" />
+            <element signature="e#190994#192394#0" />
+            <element signature="e#192600#194273#0" />
+            <element signature="e#194371#195862#0" />
+            <element signature="e#195994#197420#0" />
+            <element signature="e#197464#197465#0" expanded="true" />
+            <element signature="e#197503#197504#0" expanded="true" />
+            <element signature="e#197510#198737#0" />
+            <element signature="e#198787#198788#0" expanded="true" />
+            <element signature="e#198862#198863#0" expanded="true" />
+            <element signature="e#198869#199869#0" />
+            <element signature="e#199963#200759#0" />
+            <element signature="e#200883#202286#0" />
+            <element signature="e#202378#203521#0" />
+            <element signature="e#203871#204886#0" />
+            <element signature="e#204992#205714#0" />
+            <element signature="e#206123#207234#0" />
+            <element signature="e#207354#208657#0" />
+            <element signature="e#208783#209669#0" />
+            <element signature="e#210130#210554#0" />
+            <element signature="e#210692#211929#0" />
+            <element signature="e#212047#213140#0" />
+            <element signature="e#213294#214718#0" />
+            <element signature="e#214834#216079#0" />
+            <element signature="e#216231#217274#0" />
+            <element signature="e#217398#218240#0" />
+            <element signature="e#218400#219728#0" />
+            <element signature="e#219850#220953#0" />
+            <element signature="e#221111#222404#0" />
+            <element signature="e#222522#223600#0" />
+            <element signature="e#223754#225041#0" />
+            <element signature="e#225142#226293#0" />
+            <element signature="e#226423#227710#0" />
+            <element signature="e#227811#228940#0" />
+            <element signature="e#229070#230285#0" />
+            <element signature="e#230386#231396#0" />
+            <element signature="e#231526#233872#0" />
+            <element signature="e#233972#236198#0" />
+            <element signature="e#236334#237999#0" />
+            <element signature="e#238101#239558#0" />
+            <element signature="e#239696#240812#0" />
+            <element signature="e#241087#242037#0" />
+            <element signature="e#242135#242893#0" />
+            <element signature="e#243167#244718#0" />
+            <element signature="e#244818#246192#0" />
+            <element signature="e#246328#247186#0" />
+            <element signature="e#247286#247933#0" />
+            <element signature="e#247998#248019#0" />
+            <element signature="e#248242#250007#0" />
+            <element signature="e#250093#252119#0" />
+            <element signature="e#252241#253283#0" />
+            <element signature="e#253663#255517#0" />
+            <element signature="e#255624#257947#0" />
+            <element signature="e#258090#259047#0" />
+            <element signature="e#259143#259898#0" />
+            <element signature="e#260030#260752#0" />
+            <element signature="e#260879#261412#0" />
+            <element signature="e#261494#262126#0" />
+            <element signature="e#262297#262780#0" />
+            <element signature="e#263037#263192#0" />
+            <element signature="e#263237#263371#0" />
+            <element signature="e#263431#263787#0" />
+            <element signature="e#263904#264932#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="method#swap#0;class#Solution#0" expanded="true" />
+            <element signature="method#reverseFromI#0;class#Solution#0" expanded="true" />
+            <element signature="method#main#0;class#Solution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3129">
+          <caret line="182" column="2" selection-start-line="182" selection-start-column="2" selection-end-line="182" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/BuyAndSellStocksII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="method#maxProfit_DP#0;class#BuyAndSellStocksII#0" expanded="true" />
+            <element signature="method#maxProfit_DP2#0;class#BuyAndSellStocksII#0" expanded="true" />
+            <element signature="method#main#0;class#BuyAndSellStocksII#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/MinPathSum_64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="method#main#0;class#MinPathSum_64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/Permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="method#main#0;class#Permute#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testGrammar.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2069">
+          <caret line="783" column="7" selection-start-line="783" selection-start-column="5" selection-end-line="783" selection-end-column="7" />
+          <folding>
+            <element signature="e#3425#3501#0" expanded="true" />
+            <element signature="e#4997#5438#0" expanded="true" />
+            <element signature="e#6467#6797#0" expanded="true" />
+            <element signature="e#7135#7492#0" expanded="true" />
+            <element signature="e#8008#8009#0" expanded="true" />
+            <element signature="e#8036#8037#0" expanded="true" />
+            <element signature="e#8972#9315#0" expanded="true" />
+            <element signature="e#19961#20254#0" expanded="true" />
+            <element signature="e#21130#21419#0" expanded="true" />
+            <element signature="e#22176#22541#0" expanded="true" />
+            <element signature="e#23214#23215#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
+            <element signature="e#23699#23700#0" expanded="true" />
+            <element signature="e#23735#23736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruanxinxin/mvc01/algorithm/SequenceTotal0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="method#main#0;class#SequenceTotal0#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mybatisProj01:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|mybatisProj01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Arquillian JUnit:Release</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean compile" />
+  </component>
+</project>
