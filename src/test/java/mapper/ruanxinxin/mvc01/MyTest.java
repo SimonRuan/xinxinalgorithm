@@ -1,8 +1,8 @@
 package mapper.ruanxinxin.mvc01;
 
-import com.ruanxinxin.mvc01.ServiceStarter;
-import com.ruanxinxin.mvc01.bean.Employee;
-import com.ruanxinxin.mvc01.mapper.EmployeeMapper;
+import com.ruanxinxin.ServiceStarter;
+import com.ruanxinxin.bean.Employee;
+import com.ruanxinxin.mapper.EmployeeMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

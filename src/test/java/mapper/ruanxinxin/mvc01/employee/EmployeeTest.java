@@ -1,19 +1,16 @@
 package mapper.ruanxinxin.mvc01.employee;
 
 
-import com.ruanxinxin.mvc01.service.EmployeeService;
+import com.ruanxinxin.service.EmployeeService;
 import mapper.ruanxinxin.mvc01.inter.MyInterface;
-import org.junit.Assert;
 import org.junit.Test;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class EmployeeTest {
@@ -64,7 +61,7 @@ public class EmployeeTest {
     public void reflectTest() {
 
         try {
-            Class<?> cls = Class.forName("com.ruanxinxin.mvc01.service.EmployeeService");
+            Class<?> cls = Class.forName("com.ruanxinxin.service.EmployeeService");
             EmployeeService obj = (EmployeeService) cls.newInstance();
             //Arrays.stream(cls.getMethods()).forEach(x->System.err.println(x.toString()));
             Method printNoStr = cls.getMethod("printNoStr");

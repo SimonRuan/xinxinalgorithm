@@ -2,13 +2,13 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.ruanxinxin.mvc01.mapper.EmployeeMapper">
+<mapper namespace="com.ruanxinxin.mapper.EmployeeMapper">
 
-    <select id="getAllEmployees" resultType="com.ruanxinxin.mvc01.bean.Employee">
+    <select id="getAllEmployees" resultType="com.ruanxinxin.bean.Employee">
         select id,last_name as lastName,gender,email from tbl_employee
     </select>
 
-    <insert id="addEmployees" parameterType="com.ruanxinxin.mvc01.bean.Employee">
+    <insert id="addEmployees" parameterType="com.ruanxinxin.bean.Employee">
         insert into   tbl_employee (last_name ,gender,email)
         values
         <foreach collection="empList" item="emp" separator=",">
